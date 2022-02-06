@@ -34,7 +34,7 @@ replies = [
         "We classified your image as unsafe, Dont do that again {}.",
         "Grow up {}, kid",
         "What is this immature behaviour? {}.",
-        "That is sooo wrong, If you keep doing it, this discord server would be a better place with you {}."
+        "That is sooo wrong, If you keep doing it, this discord server would be a better place without you {}."
     ]
 
 
