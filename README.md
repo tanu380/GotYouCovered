@@ -1,7 +1,9 @@
 # GotYouCovered
 This bot celebrates women by not letting people post images that are unsafe for work. These images include nude images that are very demeaning to the society and makes women uncomfortable. This helps the bot not only to prevent people from sending demeaning pictures of women, but also helps women avoid the distress that they feel in everyday life because of these pictures, and helps them attain mental health stability.
 
-We have not uploaded the config file because of token secrecy issues, the code for the discord bot "GotYouCovered" is in main.py
+We have not uploaded the config file because of token secrecy issues, the code for the discord bot "GotYouCovered" is in main.py.
+
+You can invite the bot to test it out at : https://discord.com/oauth2/authorize?client_id=939755638463037500&permissions=8&scope=bot
 ## Inspiration
 We live in a world where it is really difficult to go out and interact with people because of covid. Internet is the only resort. But as we all know, it is really not such a happy place for everyone. People have found ways of harassing others, especially women on the internet. They post obscene content of women and themselves on the internet on various sites, creating an unhealthy and unethical platform. It makes women uncomfortable and after digging deeper into it, we found out that uncomfortable is just a small term; this type of incongruous content negatively impacts women's mental health which is the root cause of various further illnesses like depression, anxiety, and much more. This gave us the motivation to do our part and help women fight and stand against such behavior. This is how we came up with our discord bot "GotYouCovered". This bot helps us celebrate women in tech, makes it a safe haven for them, and prevents any unsuitable content like naked pictures and similar content having the power to affect their health, from being posted.
 ## What it does
